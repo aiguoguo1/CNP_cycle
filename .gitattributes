@@ -1,0 +1,2 @@
+95CNP.fasta filter=lfs diff=lfs merge=lfs -text
+CNPid2gene.txt filter=lfs diff=lfs merge=lfs -text
